@@ -1,4 +1,4 @@
-this is a collection of my sketches and final drawings. 
+all of my sketches and drawings.
 
 ## Sketch 1: daisy
 
