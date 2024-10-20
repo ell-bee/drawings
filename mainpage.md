@@ -8,3 +8,5 @@ all of my sketches and drawings.
 ### Edited sketch
 <img width="1115" alt="Screenshot 2024-10-13 at 5 56 34 PM" src="https://github.com/user-attachments/assets/a17c5098-51fa-495f-a4cc-0984d6bfde23">
 
+## Sketch 2, Persistence and Movement: Sketchpad
+![Screenshot 2024-10-20 at 6 20 46 PM](https://github.com/user-attachments/assets/785247ae-de65-4245-af41-4bdeb3269b84)
