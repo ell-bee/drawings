@@ -10,3 +10,6 @@ all of my sketches and drawings.
 
 ## Sketch 2, Persistence and Movement: Sketchpad
 ![Screenshot 2024-10-20 at 6 20 46 PM](https://github.com/user-attachments/assets/785247ae-de65-4245-af41-4bdeb3269b84)
+
+### Updated code (creds to Mr. Oswald)
+<img width="998" alt="Screenshot 2024-10-22 at 11 44 51 AM" src="https://github.com/user-attachments/assets/ea281308-aee8-4988-8c24-6494e5ca608f">
