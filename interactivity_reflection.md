@@ -1,0 +1,2 @@
+### Interactivity Reflection
+The code is a bit messier than I intended, but it mostly works in the way that I intended. The pong ball bounces off the automated paddle that follows the ball's movement, but the ball doesn't exactly bounce off the player's paddle. It bounces off the x-coordinate of the paddle when I want it to bounce off the actual paddle, and the ball slips out of bounds on the top and left sides. I can't quite get the math right on that one. I am proud for defining and understanding mutltiple of the same type of variables for different bodies.
