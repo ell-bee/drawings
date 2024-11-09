@@ -14,5 +14,11 @@ all of my sketches and drawings.
 ### Updated code (creds to Mr. Oswald)
 <img width="998" alt="Screenshot 2024-10-22 at 11 44 51 AM" src="https://github.com/user-attachments/assets/ea281308-aee8-4988-8c24-6494e5ca608f">
 
-## Sketch 2, Lab 4
+## Sketch 3, Lab 4
 <img width="1113" alt="Screenshot 2024-10-26 at 3 09 33 PM" src="https://github.com/user-attachments/assets/e6544083-4010-43ad-9c3a-9455d726f7ff">
+
+## Sketch 4, Interacting Things: Pong
+https://github.com/user-attachments/assets/63b450a4-96e7-4479-95ce-d9bd466c802f
+
+
+
