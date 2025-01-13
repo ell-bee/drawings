@@ -20,5 +20,8 @@ all of my sketches and drawings.
 ## Sketch 4, Interacting Things: Pong
 https://github.com/user-attachments/assets/63b450a4-96e7-4479-95ce-d9bd466c802f
 
+## Sketch 5, Data & Map Lab
+<img width="1367" alt="Screenshot 2025-01-13 at 9 40 56 AM" src="https://github.com/user-attachments/assets/ff90ee98-8f76-47e7-adcc-63e002e350cc" />
+This is a bar graph over the span of 7 days showing usage of social media platforms Instagram, Tik Tok, Twitter and Snapchat.
 
 
